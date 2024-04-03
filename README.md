@@ -7,4 +7,5 @@ Description of files are given below-
 `random_guess.c -` Number guessing game.  
 `count_letters.c -` This program counts each letters from A-Z.  
 `pnum_test.c -` This program identifies prime numbers.   
-`time_funct0.c -` This program demonstrates asctime() funcrtion uses.  
+`time_funct0.c -` This program demonstrates asctime() funcrtion uses.   
+`clock_funct.c -` This program shows system clock cycles.  

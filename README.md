@@ -8,4 +8,5 @@ Description of files are given below-
 `count_letters.c -` This program counts each letters from A-Z.  
 `pnum_test.c -` This program identifies prime numbers.   
 `time_funct0.c -` This program demonstrates asctime() funcrtion uses.   
-`clock_funct.c -` This program shows system clock cycles.  
+`clock_funct.c -` This program shows system clock cycles.   
+`local_time_funct.c -` This program shows local time of the system.   

@@ -10,3 +10,4 @@ Description of files are given below-
 `time_funct0.c -` This program demonstrates asctime() funcrtion uses.   
 `clock_funct.c -` This program shows system clock cycles.   
 `local_time_funct.c -` This program shows local time of the system.   
+`gm_time.c -` This program prints Coordinated Universal Time of the system.  

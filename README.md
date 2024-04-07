@@ -11,4 +11,5 @@ Description of files are given below-
 `clock_funct.c -` This program shows system clock cycles.   
 `local_time_funct.c -` This program shows local time of the system.   
 `gm_time.c -` This program prints Coordinated Universal Time of the system.   
-`abort_funct.c -` This abort() funct can terminate the program.  
+`abort_funct.c -` This abort() function can terminate the program.   
+`iscntrl_funct.c -` This iscntrl() function can check control characters.   

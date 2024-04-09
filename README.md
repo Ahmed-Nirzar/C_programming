@@ -13,3 +13,4 @@ Description of files are given below-
 `gm_time.c -` This program prints Coordinated Universal Time of the system.   
 `abort_funct.c -` This abort() function can terminate the program.   
 `iscntrl_funct.c -` This iscntrl() function can check control characters.   
+`isalpha_funct.c -` This isalpha() function can check alphabets.  

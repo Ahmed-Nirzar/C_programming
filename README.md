@@ -14,4 +14,10 @@ Description of files are given below-
 `abort_funct.c -` This abort() function can terminate the program.   
 `iscntrl_funct.c -` This iscntrl() function can check control characters.   
 `isalpha_funct.c -` This isalpha() function can check alphabets.   
-`isdigit_funct.c -` This isdigit() function can check digits.   
+`isdigit_funct.c -` This isdigit() function can check digits.    
+`isgraph_funct.c -` This isgraph() function can check printable characters (without space).   
+` `   
+` `    
+` `    
+` `    
+` `   

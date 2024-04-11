@@ -16,7 +16,7 @@ Description of files are given below-
 `isalpha_funct.c -` This isalpha() function can check alphabets.   
 `isdigit_funct.c -` This isdigit() function can check digits.    
 `isgraph_funct.c -` This isgraph() function can check printable characters (without space).   
-` `   
+`islower_funct.c -` 
 ` `    
 ` `    
 ` `    

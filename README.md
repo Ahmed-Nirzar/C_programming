@@ -18,6 +18,6 @@ Description of files are given below-
 `isgraph_funct.c -` This isgraph() function can check printable characters (without space).   
 `islower_funct.c -` This islower() function can check lowercase characters.    
 `isupper_funct.c -` This isupper() function can check uppercase characters.   
-` `
+`isprint_funct.c -` This isprint() function can check printing characters (with space).    
 ` `    
 ` `   

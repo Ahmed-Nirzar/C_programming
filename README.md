@@ -19,5 +19,5 @@ Description of files are given below-
 `islower_funct.c -` This islower() function can check lowercase characters.    
 `isupper_funct.c -` This isupper() function can check uppercase characters.   
 `isprint_funct.c -` This isprint() function can check printing characters (with space).    
-` `    
+`ispunct_funct.c -` This ispunct() function can check punctuations.       
 ` `   

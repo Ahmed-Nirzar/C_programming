@@ -22,5 +22,7 @@ Description of files are given below-
 `ispunct_funct.c -` This ispunct() function can check punctuations.       
 `isspace_funct.c -` This isspace() function can check whitespace characters.   
 `isalnum_funct.c -` This isalnum() function can check alphanumeric characters.    
-`isxdigit_funct.c -` This isxdigit() function can check hexadecimal characters.   
+`isxdigit_funct.c -` This isxdigit() function can check hexadecimal characters.    
+`character_funct.c -` This program uses all type of character checking functions.    
+
 

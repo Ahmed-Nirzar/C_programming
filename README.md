@@ -25,4 +25,6 @@ Description of files are given below-
 `isxdigit_funct.c -` This isxdigit() function can check hexadecimal characters.    
 `character_funct.c -` This program uses all type of character checking functions.    
 `qsort_funct.c -` This qsort() function can sort integer values.       
-`strcmp_funct.c -` This strcmp() can compare strings and use as a password checker.    
+`strcmp_funct.c -` This strcmp() function can compare strings and use as a password checker.     
+`tolower_funct.c -` This tolower() function can convert uppercase letter to a lowercase letter.     
+

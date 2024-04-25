@@ -29,5 +29,6 @@ Description of files are given below-
 `tolower_funct.c -` This tolower() function can convert uppercase letter to a lowercase letter.     
 `toupper_funct.c -` This toupper() function can convert lowercase letter to a uppercase letter.      
 `difftime_funct.c -` This difftime() function can count time the loop takes to complete.     
+`atoi_funct.c -` This atoi() function converts char value to integer.     
 
 

@@ -31,5 +31,8 @@ Description of files are given below-
 `difftime_funct.c -` This difftime() function can count time the loop takes to complete.     
 `atoi_funct.c -` This atoi() function converts char value to integer.     
 `atof_funct.c -` This atof() function converts char value to float.      
+`atol_funct.c -` This atol() function coverts char value to long integer.       
+
+
 
 

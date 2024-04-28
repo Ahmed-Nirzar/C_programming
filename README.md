@@ -33,6 +33,7 @@ Description of files are given below-
 `atof_funct.c -` This atof() function converts char value to float.      
 `atol_funct.c -` This atol() function coverts char value to long integer.        
 `exit_funct.c -` This exit() function used for immediate normal termination.        
+`rand_funct.c -` This rand() function can display random numbers.        
 
 
 

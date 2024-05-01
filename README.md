@@ -34,8 +34,8 @@ Description of files are given below-
 `atol_funct.c -` This atol() function coverts char value to long integer.        
 `exit_funct.c -` This exit() function used for immediate normal termination.        
 `rand_funct.c -` This rand() function can display random numbers.        
-`strlen_funct.c -` This strlen() function can measure length of a string.      
-
+`strlen_funct.c -` This strlen() function can measure length of a string.       
+`coin_toss.c -` This is a simple coin toss program.      
 
 
 

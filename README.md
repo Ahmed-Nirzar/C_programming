@@ -37,6 +37,6 @@ Description of files are given below-
 `strlen_funct.c -` This strlen() function can measure length of a string.       
 `coin_toss.c -` This is a simple coin toss program.      
 `pass_cmd.c -` This program checks password in command-line.         
-
+`remove_funct.c -` This function erase a value.         
 
 

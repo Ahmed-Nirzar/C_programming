@@ -38,5 +38,6 @@ Description of files are given below-
 `coin_toss.c        -` This is a simple coin toss program.      
 `pass_cmd.c         -` This program checks password in command-line.         
 `remove_funct.c     -` This function erase a value.         
+`access_struct.c    -` This program demonstrates some ways to access structure members.       
 
 
